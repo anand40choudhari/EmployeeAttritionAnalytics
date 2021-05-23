@@ -5,3 +5,5 @@ The data contains details of employees as well as the details of the projects th
 
 Build a data model to predict the possible attritions and high performers to retain.
 This will help the company to identify employees who have high possibility of quitting and will allow them to allocate resources to combat the issue.
+
+In this project I have build and tested model on staff utlz latest 16-17_masked dataset and performed prediction on staff utlz latest 17-18_masked dataset.
